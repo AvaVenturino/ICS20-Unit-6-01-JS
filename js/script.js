@@ -4,6 +4,15 @@
 // Created on: Mar 2022
 // This file contains the JS functions for index.html
 
+/**
+ * Check servie worker.
+ */
+if (navigator.serviceWorker) {
+  navigator.serviceWorker.register("/ICS2O-Unit-6-01-JS/sw.js", {
+    scope: "/ICS2O-Unit-6-01-JS/",
+  })
+}
+
 "use strict"
 /**
  * This function calculates the area of a triangle.
