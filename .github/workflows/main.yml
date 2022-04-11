@@ -1,7 +1,6 @@
 ###############################################
 # Run Ava Venturino's Super Linter against code base #
 ###############################################
-
 ---
 name: Ava Venturino's Super Linter
 on: push
