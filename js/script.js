@@ -13,7 +13,6 @@ if (navigator.serviceWorker) {
   })
 }
 
-;("use strict")
 /**
  * This function calculates the area of a triangle.
  */
