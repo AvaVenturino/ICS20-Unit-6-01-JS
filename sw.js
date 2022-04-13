@@ -33,7 +33,7 @@ self.addEventListener("install", function (e) {
     })
   )
 })
- 
+
 self.addEventListener("activate", function (e) {
   e.waitUntil(
     caches.keys().then(function (keyList) {
