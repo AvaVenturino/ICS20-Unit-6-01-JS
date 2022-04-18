@@ -1,4 +1,4 @@
- // Copyright (c) 2022 Ava Venturino All rights reserved
+// Copyright (c) 2022 Ava Venturino All rights reserved
 //
 // Created by: Ava Venturino
 // Created on: Mar 2022
