@@ -1,4 +1,4 @@
-// Copyright (c) 2022 Ava Venturino All rights reserved
+ // Copyright (c) 2022 Ava Venturino All rights reserved
 //
 // Created by: Ava Venturino
 // Created on: Mar 2022
@@ -8,8 +8,8 @@
  * Check servie worker.
  */
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICS2O-Unit-6-01-JS/sw.js", {
-    scope: "/ICS2O-Unit-6-01-JS/",
+  navigator.serviceWorker.register("/ICS20-Unit-6-01-JS/sw.js", {
+    scope: "/ICS20-Unit-6-01-JS/",
   })
 }
 
